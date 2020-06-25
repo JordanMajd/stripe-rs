@@ -87,6 +87,10 @@ name = "async_create_charge"
 #required-features = ["async"]
 
 [[example]]
+name = "create_ach_charge"
+required-features = ["blocking"]
+
+[[example]]
 name = "create_charge"
 required-features = ["blocking"]
 
